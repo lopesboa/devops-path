@@ -1,0 +1,32 @@
+.DS_Store
+.idea/
+.vscode/
+Thumbs.db
+
+*.log
+*.tmp
+
+# Terraform
+.terraform/
+.terraformrc
+terraform.rc
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+*.tfvars
+*.tfvars.json
+*.tfplan
+*.plan
+
+# direnv
+.direnv/
+.envrc
+
+# Secrets
+*.env
+*.env.*
+*kubeconfig*
+.kube/
+*.pem
+*.key
+*.crt
