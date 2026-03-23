@@ -1,7 +1,7 @@
 # DevOps Learning Path
 
 A practical, incremental learning path for DevOps fundamentals.
-Start with Kubernetes basics, move into Terraform, and round out with Docker fundamentals.
+Start with Kubernetes basics, move into Terraform.
 
 ## Path overview
 
